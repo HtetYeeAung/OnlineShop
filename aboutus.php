@@ -19,7 +19,7 @@
   	margin-top: 50px;
   	margin-left: 1px;
   	margin-right: 1px;
-  	background-color: #FFFAFA;
+  	background-color: snow;
   	font-style: italic;
   	font-weight: bold;
   	color: #000000;
