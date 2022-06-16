@@ -19,7 +19,7 @@
   	margin-top: 50px;
   	margin-left: 1px;
   	margin-right: 1px;
-  	background-color: yellow;
+  	background-color: #FFFAFA;
   	font-style: italic;
   	font-weight: bold;
   	color: #000000;

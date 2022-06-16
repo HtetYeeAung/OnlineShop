@@ -15,7 +15,7 @@ $rephoto = "ImagesFile/".$photo;
     	<body>
     		<form method="post" action="itemeditprocess.php" enctype="multipart/form-data">
     			<input type="hidden" name="id" value="<?php echo $IID; ?>">
-    			item Name : <input type="text" name="name" value="<?php echo $name; ?>"><br>
+    			Item Name : <input type="text" name="name" value="<?php echo $name; ?>"><br>
     			Category : <input type="text" name="category" value="<?php echo $category; ?>"><br>
     			Price : <input type="text" name="price" value="<?php echo $price; ?>"><br>
     			<img src="<?php echo $rephoto; ?>" width="50" height="50" >
